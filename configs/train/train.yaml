@@ -1,0 +1,3 @@
+framework: torch
+num_cpus: 14
+stop: 100
